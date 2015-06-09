@@ -1,0 +1,2 @@
+verilog isim_temp "connect_ser_des_tb.v"
+verilog isim_temp "/opt/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

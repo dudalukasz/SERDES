@@ -1,0 +1,3 @@
+work	"connect_ser_des.vhd"
+work	"deserializer.vhd"
+work	"serializer.vhd"
